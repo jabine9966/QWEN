@@ -1,7 +1,7 @@
 {
   "metadata": {
     "symbol": "SOLUSDT",
-    "generated_at": "2026-07-30T22:29:03.935382+00:00",
+    "generated_at": "2026-07-30T22:59:15.272534+00:00",
     "timezone": "UTC+8 (东8区)",
     "total_klines": 1440,
     "kline_interval": "15m",
@@ -9,38 +9,6 @@
     "data_continuous": true
   },
   "klines": [
-    {
-      "symbol": "SOLUSDT",
-      "interval": "15m",
-      "timestamp_ms": 1784154600000,
-      "timestamp_utc8": "2026-07-16 06:30:00",
-      "open": 77.63,
-      "high": 77.7,
-      "low": 77.46,
-      "close": 77.47,
-      "volume": 74362.2,
-      "quote_volume": 5770533.4839,
-      "number_of_trades": 7301,
-      "taker_buy_base_asset_volume": 36349.07,
-      "taker_buy_quote_volume": 2821330.8433,
-      "closed": true
-    },
-    {
-      "symbol": "SOLUSDT",
-      "interval": "15m",
-      "timestamp_ms": 1784155500000,
-      "timestamp_utc8": "2026-07-16 06:45:00",
-      "open": 77.46,
-      "high": 77.68,
-      "low": 77.41,
-      "close": 77.47,
-      "volume": 109452.89,
-      "quote_volume": 8485439.7762,
-      "number_of_trades": 7997,
-      "taker_buy_base_asset_volume": 56581.99,
-      "taker_buy_quote_volume": 4387418.4256,
-      "closed": true
-    },
     {
       "symbol": "SOLUSDT",
       "interval": "15m",
@@ -23041,12 +23009,44 @@
       "open": 74.68,
       "high": 74.86,
       "low": 74.65,
-      "close": 74.85,
-      "volume": 84818.06,
-      "quote_volume": 6340569.3343,
-      "number_of_trades": 7878,
-      "taker_buy_base_asset_volume": 51487.48,
-      "taker_buy_quote_volume": 3849178.1554,
+      "close": 74.82,
+      "volume": 90228.39,
+      "quote_volume": 6745396.8191,
+      "number_of_trades": 8429,
+      "taker_buy_base_asset_volume": 52296.44,
+      "taker_buy_quote_volume": 3909704.3304,
+      "closed": true
+    },
+    {
+      "symbol": "SOLUSDT",
+      "interval": "15m",
+      "timestamp_ms": 1785450600000,
+      "timestamp_utc8": "2026-07-31 06:30:00",
+      "open": 74.83,
+      "high": 74.85,
+      "low": 74.7,
+      "close": 74.81,
+      "volume": 86565.37,
+      "quote_volume": 6472401.5031,
+      "number_of_trades": 7660,
+      "taker_buy_base_asset_volume": 48959.27,
+      "taker_buy_quote_volume": 3660607.2333,
+      "closed": true
+    },
+    {
+      "symbol": "SOLUSDT",
+      "interval": "15m",
+      "timestamp_ms": 1785451500000,
+      "timestamp_utc8": "2026-07-31 06:45:00",
+      "open": 74.8,
+      "high": 74.83,
+      "low": 74.69,
+      "close": 74.72,
+      "volume": 30039.55,
+      "quote_volume": 2245820.4335,
+      "number_of_trades": 4177,
+      "taker_buy_base_asset_volume": 8477.41,
+      "taker_buy_quote_volume": 633691.2668,
       "closed": true
     }
   ]
